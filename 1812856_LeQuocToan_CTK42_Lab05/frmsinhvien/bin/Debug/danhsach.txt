@@ -1,0 +1,3 @@
+1234567	le van a	e	11/05/2020	CTK42	1	012345678	0123456789	abc	Hệ điều hành,Lập trình CSDL
+1234568	le van	b	11/05/2020	CTK42	1	012345678	0123456789	abc	Hệ điều hành,Lập trình CSDL,Lập trình mạng,Đồ án cơ sở
+1234567	le van	b	11/05/2020	CTK42	1	012345678	0123456789	abc	Hệ điều hành,Lập trình CSDL

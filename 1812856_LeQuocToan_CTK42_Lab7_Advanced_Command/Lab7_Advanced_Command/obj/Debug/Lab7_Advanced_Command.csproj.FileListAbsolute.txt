@@ -1,0 +1,12 @@
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csprojAssemblyReference.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.fOODinfoform.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Form1.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Properties.Resources.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe.config
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.pdb
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.themcatefory.resources

@@ -1,0 +1,6 @@
+E:\test\Bài Tập Winform\RestaurantManagementProject\DataAccess\bin\Debug\DataAccess.dll
+E:\test\Bài Tập Winform\RestaurantManagementProject\DataAccess\bin\Debug\DataAccess.pdb
+E:\test\Bài Tập Winform\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\test\Bài Tập Winform\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\test\Bài Tập Winform\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.dll
+E:\test\Bài Tập Winform\RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.pdb

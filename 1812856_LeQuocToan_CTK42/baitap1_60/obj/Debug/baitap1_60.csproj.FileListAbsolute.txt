@@ -1,0 +1,10 @@
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\bin\Debug\baitap1_60.exe.config
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\bin\Debug\baitap1_60.exe
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\bin\Debug\baitap1_60.pdb
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\obj\Debug\baitap1_60.csprojAssemblyReference.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\obj\Debug\baitap1_60.frmNhanVien.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\obj\Debug\baitap1_60.Properties.Resources.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\obj\Debug\baitap1_60.csproj.GenerateResource.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\obj\Debug\baitap1_60.csproj.CoreCompileInputs.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\obj\Debug\baitap1_60.exe
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42\baitap1_60\obj\Debug\baitap1_60.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1812856_LeQuocToan_CTK42_Lab04_2", "1812856_LeQuocToan_CTK42_Lab04_2\1812856_LeQuocToan_CTK42_Lab04_2.csproj", "{DEF8454F-AF2F-4D21-9BFB-9AF90C45500B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF8454F-AF2F-4D21-9BFB-9AF90C45500B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF8454F-AF2F-4D21-9BFB-9AF90C45500B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF8454F-AF2F-4D21-9BFB-9AF90C45500B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF8454F-AF2F-4D21-9BFB-9AF90C45500B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {082CD3F3-7698-4005-8671-5FF99F64FF9E}
+	EndGlobalSection
+EndGlobal

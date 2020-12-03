@@ -1,0 +1,15 @@
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.exe.config
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.exe
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.pdb
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\BusinessLogic.dll
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\DataAccess.dll
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\BusinessLogic.pdb
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\DataAccess.pdb
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csprojAssemblyReference.cache
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.formfood.resources
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.Properties.Resources.resources
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.GenerateResource.cache
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.CoreCompileInputs.cache
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.CopyComplete
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.exe
+E:\test\Bài Tập Winform\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.pdb

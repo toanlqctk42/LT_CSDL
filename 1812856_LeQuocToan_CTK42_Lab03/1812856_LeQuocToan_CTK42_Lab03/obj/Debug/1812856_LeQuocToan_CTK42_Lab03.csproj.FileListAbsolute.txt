@@ -1,0 +1,10 @@
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\bin\Debug\1812856_LeQuocToan_CTK42_Lab03.exe.config
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\bin\Debug\1812856_LeQuocToan_CTK42_Lab03.exe
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\bin\Debug\1812856_LeQuocToan_CTK42_Lab03.pdb
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\obj\Debug\1812856_LeQuocToan_CTK42_Lab03.csprojAssemblyReference.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\obj\Debug\_1812856_LeQuocToan_CTK42_Lab03.demosv.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\obj\Debug\_1812856_LeQuocToan_CTK42_Lab03.Properties.Resources.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\obj\Debug\1812856_LeQuocToan_CTK42_Lab03.csproj.GenerateResource.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\obj\Debug\1812856_LeQuocToan_CTK42_Lab03.csproj.CoreCompileInputs.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\obj\Debug\1812856_LeQuocToan_CTK42_Lab03.exe
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab03\1812856_LeQuocToan_CTK42_Lab03\obj\Debug\1812856_LeQuocToan_CTK42_Lab03.pdb

@@ -1,0 +1,9 @@
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\bin\Debug\DataAccess.dll
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\test\Bài Tập Winform\RestaurantManagementProject\BusinessLogic\obj\Debug\BusinessLogic.pdb

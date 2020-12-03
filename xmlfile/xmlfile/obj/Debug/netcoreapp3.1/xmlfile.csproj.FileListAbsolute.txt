@@ -1,0 +1,13 @@
+E:\test\Bài Tập Winform\xmlfile\xmlfile\bin\Debug\netcoreapp3.1\xmlfile.exe
+E:\test\Bài Tập Winform\xmlfile\xmlfile\bin\Debug\netcoreapp3.1\xmlfile.deps.json
+E:\test\Bài Tập Winform\xmlfile\xmlfile\bin\Debug\netcoreapp3.1\xmlfile.runtimeconfig.json
+E:\test\Bài Tập Winform\xmlfile\xmlfile\bin\Debug\netcoreapp3.1\xmlfile.runtimeconfig.dev.json
+E:\test\Bài Tập Winform\xmlfile\xmlfile\bin\Debug\netcoreapp3.1\xmlfile.dll
+E:\test\Bài Tập Winform\xmlfile\xmlfile\bin\Debug\netcoreapp3.1\xmlfile.pdb
+E:\test\Bài Tập Winform\xmlfile\xmlfile\obj\Debug\netcoreapp3.1\xmlfile.csprojAssemblyReference.cache
+E:\test\Bài Tập Winform\xmlfile\xmlfile\obj\Debug\netcoreapp3.1\xmlfile.AssemblyInfoInputs.cache
+E:\test\Bài Tập Winform\xmlfile\xmlfile\obj\Debug\netcoreapp3.1\xmlfile.AssemblyInfo.cs
+E:\test\Bài Tập Winform\xmlfile\xmlfile\obj\Debug\netcoreapp3.1\xmlfile.csproj.CoreCompileInputs.cache
+E:\test\Bài Tập Winform\xmlfile\xmlfile\obj\Debug\netcoreapp3.1\xmlfile.dll
+E:\test\Bài Tập Winform\xmlfile\xmlfile\obj\Debug\netcoreapp3.1\xmlfile.pdb
+E:\test\Bài Tập Winform\xmlfile\xmlfile\obj\Debug\netcoreapp3.1\xmlfile.genruntimeconfig.cache

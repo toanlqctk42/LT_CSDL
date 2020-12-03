@@ -1,0 +1,14 @@
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\bin\Debug\frmsinhvien.exe.config
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\bin\Debug\frmsinhvien.exe
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\bin\Debug\frmsinhvien.pdb
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.csprojAssemblyReference.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.frmsinhvien.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.frmtimkiem.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.Properties.Resources.resources
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.csproj.GenerateResource.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.csproj.CoreCompileInputs.cache
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.exe
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.pdb
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\bin\Debug\Newtonsoft.Json.dll
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\bin\Debug\Newtonsoft.Json.xml
+E:\test\Bài Tập Winform\1812856_LeQuocToan_CTK42_Lab05\frmsinhvien\obj\Debug\frmsinhvien.csproj.CopyComplete
