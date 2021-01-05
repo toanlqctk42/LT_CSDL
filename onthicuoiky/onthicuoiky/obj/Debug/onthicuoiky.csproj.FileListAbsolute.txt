@@ -1,0 +1,10 @@
+D:\LT_CSDL\onthicuoiky\onthicuoiky\bin\Debug\onthicuoiky.exe.config
+D:\LT_CSDL\onthicuoiky\onthicuoiky\bin\Debug\onthicuoiky.exe
+D:\LT_CSDL\onthicuoiky\onthicuoiky\bin\Debug\onthicuoiky.pdb
+D:\LT_CSDL\onthicuoiky\onthicuoiky\obj\Debug\onthicuoiky.csprojAssemblyReference.cache
+D:\LT_CSDL\onthicuoiky\onthicuoiky\obj\Debug\onthicuoiky.Form1.resources
+D:\LT_CSDL\onthicuoiky\onthicuoiky\obj\Debug\onthicuoiky.Properties.Resources.resources
+D:\LT_CSDL\onthicuoiky\onthicuoiky\obj\Debug\onthicuoiky.csproj.GenerateResource.cache
+D:\LT_CSDL\onthicuoiky\onthicuoiky\obj\Debug\onthicuoiky.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\onthicuoiky\onthicuoiky\obj\Debug\onthicuoiky.exe
+D:\LT_CSDL\onthicuoiky\onthicuoiky\obj\Debug\onthicuoiky.pdb
